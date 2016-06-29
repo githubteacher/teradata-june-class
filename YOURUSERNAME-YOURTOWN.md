@@ -2,6 +2,9 @@
 
 ## Restaurants
 
+- Rocco's Tacos for great Tex Mex
+- The Pharmacy is a great hidden treasure!
+
 ## Attractions for Tourists
 
 - LegoLand is just 1 hour from Orlando

@@ -6,6 +6,8 @@
 
 - LegoLand is just 1 hour from Orlando
 
-## Attractions for Locals 
+## Attractions for Locals
+
+- Gatorland is great to see lots of Gators! :crocodile:
 
 :smile: **This is bold text**

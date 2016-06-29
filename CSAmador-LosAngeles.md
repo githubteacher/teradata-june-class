@@ -8,5 +8,6 @@
 ## Attractions for Locals
 
 - LACMA
+- hiking
 
 :smile: **This is bold text** :thumbsup: :camel: :swimmer: :star: 

@@ -1,6 +1,9 @@
 # Los Angeles, CA
 ## Restaurants
 
+- El Cholo
+- Roscoe's
+
 ## Attractions for Tourists
 
 - Griffith Park
@@ -10,4 +13,4 @@
 - LACMA
 - hiking
 
-:smile: **This is bold text** :thumbsup: :camel: :swimmer: :star: 
+:smile: **This is bold text** :thumbsup: :camel: :swimmer: :star:

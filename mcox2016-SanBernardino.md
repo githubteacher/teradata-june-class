@@ -12,3 +12,6 @@
 ## Attractions for Locals
 - Route 66
 - San Manuel Stadium
+- Arrowhead
+- Big Bear
+

@@ -1,7 +1,7 @@
 # Long Beach, CA
 ## Restaurants
 ## Attractions for tourists
-PappyBBQ
+- PappyBBQ
 ## Attractions for locals
 ### Reminisce about the Pike
 

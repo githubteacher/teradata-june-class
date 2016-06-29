@@ -7,6 +7,7 @@
 ## Attractions for Tourists
 
 - Griffith Park
+- Watch a taping of a tv show
 
 ## Attractions for Locals
 

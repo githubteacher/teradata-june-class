@@ -7,3 +7,7 @@
 ## Attractions for Tourists
 
 ## Attractions for Locals
+
+ - Fishing
+ :fish:
+

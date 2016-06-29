@@ -7,7 +7,8 @@
 - Namsan Tower
 
 ## Attractions for Locals
-- Han River
+- Gatorland is great to see lots of Gators!
+:crocodile:
 
 ### Others
 

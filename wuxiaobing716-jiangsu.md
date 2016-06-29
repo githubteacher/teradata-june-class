@@ -9,4 +9,4 @@
 ##Attractions for Locals
 - Zhouzhuang is a very nice town built on rivers.
 
-:smile: **This is bold text**
+:smile: **This is bold text** :smile: :smile:

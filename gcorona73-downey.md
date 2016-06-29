@@ -7,7 +7,7 @@
 - Lazy Dog
 
 ## Attractions for tourtists
-- Downey Space Museum
+- Downey Space Museum :rocket:
 
 ## Attractions for locals
 - Downey Landing

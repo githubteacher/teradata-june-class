@@ -2,9 +2,10 @@
 
 ## Restaurants
 - El Torito (closed)
-- Olive Garden
+- Olive Garden (moved to new location)
 
 ## Attractions for Tourists
+nothing interesting...
 
 ## Attractions for Locals
 

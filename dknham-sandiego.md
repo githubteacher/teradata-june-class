@@ -2,10 +2,10 @@
 
 ## Restaurants
 - Clairemont area good and diverse Asian food
-- Favorite is Golden City
+- Favorite is Golden City (Chinese)
 
 ## Attractions
-- Seaworld :ocean:
+- Seaworld :whale:
 - Beaches :surfer:
 - Seaport Village
 - Downtown - gaslamp

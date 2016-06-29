@@ -1,7 +1,7 @@
 # San Angelo, TX
 
 ## Restaurants
-- El Torito
+- El Torito (closed)
 - Olive Garden
 
 ## Attractions for Tourists

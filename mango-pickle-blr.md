@@ -19,3 +19,4 @@ Uber is the easiest and most familiar way to get around. Autos & red buses (3 wh
 - Unwind
 - Explore
 - Eat
+- Party

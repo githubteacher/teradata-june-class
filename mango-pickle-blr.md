@@ -3,9 +3,10 @@
 #Bangalore, India
 
 ## Travel logistics
-- To Bangalore
+##### To Bangalore:
 
-- Within Bangalore
+##### Within Bangalore:
+
 Uber is the easiest and most familiar way to get around. Autos & red buses (3 wheeled tuk-tuks) the local way to get around
 
 ## FOOOOOOD

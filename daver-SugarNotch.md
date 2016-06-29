@@ -7,6 +7,8 @@ Skiing
 Appalachian Trail
 
 ##Attractions for locals
+- hiking trails
+
 
 :smiley:
 :sparkles:

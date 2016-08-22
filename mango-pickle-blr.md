@@ -7,7 +7,8 @@
 
 ##### Within Bangalore:
 
-Uber is the easiest and most familiar way to get around. Autos & red buses (3 wheeled tuk-tuks) the local way to get around
+Uber is the easiest and most familiar way to get around. 
+Autos & red buses (3 wheeled tuk-tuks) the local way to get around
 
 ## FOOOOOOD
 - So much food :beer: :rice:
